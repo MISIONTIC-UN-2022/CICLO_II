@@ -1,15 +1,11 @@
-# MISION_TIC
+# CICLO II - PROGRAMACION BÁSICA JAVA
 
-En este repositorio se anexa toda la información correspondiente a los ciclos II y III de la Misión TIC 2022 - Uninorte. 
+En este repositorio se anexa toda la información correspondiente al ciclo II de la Misión TIC 2022 - Uninorte. 
 Repositorio para docentes.
-
-### CICLO II - PROGRAMACION BÁSICA JAVA
-
-### CICLO III - DESARROLLO WEB 
 
 ## Pasos para descarga
 
-1. Clonar repositorio desde vscode https://github.com/kristellu/MISION_TIC_2021.git (botón Code)
+1. Clonar repositorio desde vscode https://github.com/MISIONTIC-UN-2022/CICLO_II.git (botón Code)
 2. Acceder a los archivos
 
 ## Cómo contribuir
